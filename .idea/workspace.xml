@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4152c41-ee21-45c8-a427-c45659e4c4bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/devtools/goland.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devtools/makedown.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devtools/git.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devtools/makedown.md" beforeDir="false" afterPath="$PROJECT_DIR$/devtools/makedown.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
