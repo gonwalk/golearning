@@ -172,13 +172,7 @@ u=702257389,1274025419&fm=27&gp=0.jpg "区块链")
 语法说明：
 三个或者三个以上的 - 或者 * 都可以。
 
-语法示例：
-```markdown
----
-----
-***
-*****
-```
+
 
 ## 流程图
 ```flow
@@ -189,7 +183,11 @@ e=>end
 st->op->cond
 cond(yes)->e
 cond(no)->op
-&```
+&
+```
+
+更详细的markdown语法及其他工具的使用参见：https://blog.csdn.net/love666666shen/article/details/103450975
+
 
 # 参考
 链接：https://www.jianshu.com/p/61e02a55f2a6
