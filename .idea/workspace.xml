@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4152c41-ee21-45c8-a427-c45659e4c4bf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/database/mysql/查询引擎.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/mysql/索引.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/redis/redis原理梳理.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/redis/主动缓存和被动缓存.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/redis/缓存击穿、穿透、雪崩产生原因与解决方式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flink/flink sql.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka/kafka原理.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/常用运维命令.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micservice/集群、分布式、微服务区别.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/database/micservice/微服务框架逻辑图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/database/redis/redis引用计数器.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devtools/git.md" beforeDir="false" afterPath="$PROJECT_DIR$/devtools/git.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devtools/goland.md" beforeDir="false" afterPath="$PROJECT_DIR$/devtools/goland.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devtools/makedown.md" beforeDir="false" afterPath="$PROJECT_DIR$/devtools/makedown.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,13 +29,24 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1UewbEk5bYMeXpos55xxYLbsAJP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/picture/database/micservice" />
+      <recent name="$PROJECT_DIR$/micservice" />
+      <recent name="$PROJECT_DIR$/picture/database/redis" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -44,10 +68,15 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

@@ -34,5 +34,6 @@ http://lookdiv.com 里面有，钥匙：lookdiv.com
 # 参考
 
 GoLand2019激活：https://www.jianshu.com/p/1d9f80ec9880
+GoLand的永久破解和配置（永久更新）：https://studygolang.com/articles/21812?fr=sidebar
 
 
